@@ -12,4 +12,4 @@ The presentation is on: https://docs.google.com/presentation/d/1L7cVrcKWZM9n89gY
 
 And, this is the picture of the team + instructors and organizers of the hackaton.
 
-![alt text](team.png)
+![alt text](team.jpg)
