@@ -10,6 +10,12 @@ The code is divided in two parts:
 
 The presentation is on: https://docs.google.com/presentation/d/1L7cVrcKWZM9n89gYR4jicc-czYcIfTIgMEhFC0X9LpE/edit?usp=sharing
 
+Team members:
+- https://github.com/KT12
+- https://github.com/TryHarder01
+- https://github.com/QuanAVuong
+- https://github.com/amyoshino
+
 And, this is the picture of the team + instructors and organizers of the hackaton.
 
 ![](team.JPG)
