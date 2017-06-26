@@ -10,6 +10,8 @@ The code is divided in two parts:
 - Web app that accept addresses and users and export a JSON file that is read by the python code;
 - Python code read JSON file with users information, calculate midpoint between addresses, explore places around midpoint and choose among those points the top 5 places to reccomend to users based on their check-ins, comments, semantic analysis of their comments and the general comments of places.
 
+Here is the workflow of the project:
+
 ![](Workflow.png)
 
 The presentation is on: https://docs.google.com/presentation/d/1L7cVrcKWZM9n89gYR4jicc-czYcIfTIgMEhFC0X9LpE/edit?usp=sharing
